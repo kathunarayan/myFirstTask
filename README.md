@@ -1,2 +1,0 @@
-# myFirstTask
-swapping program
